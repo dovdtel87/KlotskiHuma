@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KlotskiHuma</string>
+
+    <string name="run_solution">Run solution</string>
 </resources>
