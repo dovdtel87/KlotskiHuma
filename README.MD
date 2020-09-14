@@ -22,10 +22,7 @@ Please note I didn't have time for adding Unit and UI tests. For adding them I w
 
 - Unit Test: I would use the spec framework as I think it improves the readability of the different use cases and as well the scalability for more complex input data structures. I would test the view model and the use case, checking the viewstate is the one expected.
 - UI test: I would use esspresso and I would test that the visual output for the different view states is the one expected, and I would implement end to end test in order to check the different behaviours of iterations with the screen.
-  
-For `UnitTest` I use the spec framework, as I think it improves the readability of the different use cases and as well the scalability for more complex input data structures.  
-The  `UnitTest` test the 3 different layers of the feature  
-    
+     
 # Scrum:  
 In order to manage this project I followed the principles of _Scrum Methodology_ identifying the following tasks and estimating them as follows:  
   
